@@ -17,9 +17,9 @@ target = args.target #Gets tarfet from argument
 print ('''\033[1;37m______SHABIR______BALOCH_PAKISTANI____ETICAL_HACKER
 __________WE___ARE______PAK________HACKERS_____PAKISTAN_______ZINDABAAD
 ___________BALOCH#CYBER_ARMY_____WE______ARE____ANONAYMOUS
-
+Whatsapp : 03232132362
                           \033[37mMade with \033[93m<3\033[37m By Baloch\033[1;m''')
-                           \033[32mContact Info \033[95m<3\033[38m whatsapp:03232132362\033[1;m''')
+                          
 print ('''\n  I am not responsible for your shit and if you get some error while
  running attack911, there are good chances that target isn't responding.\n''')
 print ('\033[1;31m--------------------------------------------------------------------------\033[1;m\n')
